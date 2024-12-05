@@ -1,4 +1,4 @@
-# Clase Catalogue: Maneja los libros del sistema
+
 class Catalogue:
     def __init__(self):
         self.books = ["Libro 1", "Libro 2", "Libro 3"] 
